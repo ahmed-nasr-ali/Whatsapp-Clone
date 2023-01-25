@@ -1,0 +1,22 @@
+import 'hex_color.dart';
+
+final mainAppColor = HexColor('3BBEEF');
+final hintColor = HexColor('BEBEBE');
+final accentColor = HexColor('F8F9FB');
+final backgroundColor = HexColor('FBFBFB');
+final blackColor = HexColor('000000');
+final redColor = HexColor('F30333');
+final inActiveIconColor = HexColor('CBCBCB');
+final textGrayColor = HexColor('959595');
+final whiteColor = HexColor('FFFFFF');
+final secondryMainColor = HexColor('F8F9FB');
+final toastWarningColor = HexColor('FF1937');
+final mainHintColor = HexColor('F7EEEE');
+final grayColor = HexColor('E9E9E9');
+final secondGrayColor = HexColor('B7B7B7');
+final activeVideoColor = HexColor("DDE5F0");
+final borderColor = HexColor('8B1F1E');
+final cardColor = HexColor('F9F9F9');
+final containerColor = HexColor('EEEEEE');
+// final cHintTitle = HexColor('F5F1F1');
+// final cGreyWithOpacity = Color(0xff1B97D4).withOpacity(0.10);
